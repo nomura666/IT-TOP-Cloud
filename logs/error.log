@@ -1,0 +1,36 @@
+2025-05-21T21:46:27.029Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T21:47:04.910Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T21:47:26.833Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T21:52:58.408Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T21:53:22.905Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T21:55:51.183Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T23:23:13.113Z - ERROR - Auth error: 422 - [{"field":"username","message":"Неверный логин или пароль"}]
+2025-05-21T23:23:30.237Z - ERROR - Auth error: 422 - [{"field":"username","message":"Неверный логин или пароль"}]
+2025-05-21T23:23:41.595Z - ERROR - Auth error: 422 - [{"field":"username","message":"Неверный логин или пароль"}]
+2025-05-22T15:23:57.847Z - ERROR - [object Object]
+2025-05-22T15:25:21.198Z - ERROR - Upload error: userId=undefined, originalName=Screenshot_29.png, serverName=1747927520988-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:26:04.867Z - ERROR - Authentication error: userId is not defined
+2025-05-22T15:26:16.039Z - ERROR - Authentication error: userId is not defined
+2025-05-22T15:26:20.253Z - ERROR - Authentication error: userId is not defined
+2025-05-22T15:26:31.744Z - ERROR - Authentication error: userId is not defined
+2025-05-22T15:26:51.319Z - ERROR - Authentication error: userId is not defined
+2025-05-22T15:28:31.706Z - ERROR - Upload error: userId=1, originalName=Screenshot_29.png, serverName=1747927711495-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:30:58.530Z - ERROR - Upload error: userId=1, originalName=Screenshot_29.png, serverName=1747927858323-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:31:31.649Z - ERROR - Upload error: userId=1, originalName=Screenshot_29.png, serverName=1747927891448-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:32:50.520Z - ERROR - Upload error: userId=1, originalName=Screenshot_29.png, serverName=1747927970519-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:35:28.136Z - ERROR - Upload error: userId=1, originalName=Screenshot_29.png, serverName=1747928127913-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:36:01.584Z - ERROR - Upload error: userId=1, originalName=Search.svg, serverName=1747928161583-Search.svg, size=1459, mimeType=image/svg+xml
+2025-05-22T15:37:30.814Z - ERROR - Upload error: userId=1, originalName=box.gif, serverName=1747928250812-box.gif, size=55924, mimeType=image/gif
+2025-05-22T16:08:47.541Z - ERROR - Upload error: userId=1, originalName=2024-02-02 02-32-58.mp4, serverName=1747930124081-2024-02-02 02-32-58.mp4, size=237497911, mimeType=video/mp4
+2025-05-22T17:45:01.572Z - ERROR - Upload error: userId=1, originalName=2024-02-16 03-48-09.mp4, serverName=1747935897339-2024-02-16 03-48-09.mp4, size=295766002, mimeType=video/mp4
+2025-05-22T21:02:24.349Z - ERROR - Upload error: userId=1, originalName=2024-02-16 03-48-09.mp4, serverName=1747947743213-2024-02-16 03-48-09.mp4, size=295766002, mimeType=video/mp4
+2025-05-22T21:02:33.549Z - ERROR - Upload error: userId=1, originalName=IT_TOP_Ryazan_CLOUD_Report.docx, serverName=1747947753548-IT_TOP_Ryazan_CLOUD_Report.docx, size=37968, mimeType=application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-05-22T21:02:40.039Z - ERROR - Upload error: userId=1, originalName=13.png, serverName=1747947760038-13.png, size=365313, mimeType=image/png
+2025-05-22T22:20:02.379Z - ERROR - Database error: read ECONNRESET
+2025-05-22T22:20:14.321Z - ERROR - Upload error: userId=null, originalName=Screenshot_30.png, serverName=1747952414320-Screenshot_30.png, size=222716, mimeType=image/png
+2025-05-22T22:20:25.111Z - ERROR - Upload error: userId=null, originalName=Screenshot_30.png, serverName=1747952425110-Screenshot_30.png, size=222716, mimeType=image/png
+2025-05-22T22:21:42.741Z - ERROR - Upload error: userId=2, originalName=Screenshot_30.png, serverName=1747952502740-Screenshot_30.png, size=222716, mimeType=image/png
+2025-05-22T22:21:48.994Z - ERROR - Upload error: userId=2, originalName=IT_TOP_Ryazan_CLOUD_Report.docx, serverName=1747952508993-IT_TOP_Ryazan_CLOUD_Report.docx, size=37968, mimeType=application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-05-22T22:21:54.929Z - ERROR - Upload error: userId=2, originalName=ÐÐ½Ð´Ð¸Ð²Ð¸Ð´ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð¿ÑÐ¾ÐµÐºÑ IT TOP - CLOUD.docx, serverName=1747952514927-ÐÐ½Ð´Ð¸Ð²Ð¸Ð´ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð¿ÑÐ¾ÐµÐºÑ IT TOP - CLOUD.docx, size=313951, mimeType=application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-05-22T22:23:27.629Z - ERROR - Upload error: userId=2, originalName=2024-02-02 02-32-58.mp4, serverName=1747952606705-2024-02-02 02-32-58.mp4, size=237497911, mimeType=video/mp4
+2025-05-22T22:23:42.298Z - ERROR - Upload error: userId=2, originalName=IT_TOP_Ryazan_CLOUD_Report.docx, serverName=1747952622297-IT_TOP_Ryazan_CLOUD_Report.docx, size=37968, mimeType=application/vnd.openxmlformats-officedocument.wordprocessingml.document

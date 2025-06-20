@@ -1,0 +1,123 @@
+2025-05-21T21:46:27.029Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T21:47:04.910Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T21:47:26.833Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T21:52:58.408Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T21:53:22.905Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T21:55:51.183Z - ERROR - Database error: connect ETIMEDOUT
+2025-05-21T22:14:44.257Z - INFO - Новый пользователь с логином Korol_gy40 добавлен в базу.
+2025-05-21T22:16:48.541Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:16:51.698Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:16:57.410Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:17:04.503Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:17:12.526Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:21:55.011Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:24:50.758Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:26:26.909Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:29:21.446Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:30:21.809Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:45:26.193Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:50:09.187Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:50:17.663Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:50:25.011Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:52:07.781Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:52:28.225Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:54:32.493Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:54:39.434Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:56:42.220Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:56:54.980Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T22:57:29.294Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:03:47.752Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:03:59.309Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:04:07.395Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:04:20.009Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:04:28.567Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:05:01.923Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:08:17.426Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:08:27.932Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:09:27.869Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:09:35.934Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:20:26.169Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:20:33.361Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:20:40.642Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:23:13.113Z - ERROR - Auth error: 422 - [{"field":"username","message":"Неверный логин или пароль"}]
+2025-05-21T23:23:30.237Z - ERROR - Auth error: 422 - [{"field":"username","message":"Неверный логин или пароль"}]
+2025-05-21T23:23:41.595Z - ERROR - Auth error: 422 - [{"field":"username","message":"Неверный логин или пароль"}]
+2025-05-21T23:23:52.355Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:28:01.995Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:29:47.554Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:36:15.901Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:36:39.156Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:50:11.146Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:52:37.062Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-21T23:52:48.670Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T07:27:15.241Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T08:19:51.853Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T08:20:22.807Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T08:20:29.652Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T08:43:09.042Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:16:32.392Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:16:49.257Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:17:05.883Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:17:19.428Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:26:19.958Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:34:36.253Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:36:37.439Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:36:48.810Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:37:02.543Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:37:23.152Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:37:41.127Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:38:12.806Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:38:50.259Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:39:23.154Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:40:18.558Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:42:26.754Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T10:44:41.097Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T11:07:25.329Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T11:09:34.799Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T11:13:46.577Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T11:16:16.987Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T11:20:21.044Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T11:36:32.377Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T11:38:56.075Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T11:44:43.123Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T11:45:17.706Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T12:37:14.281Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T12:37:34.641Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T15:23:57.847Z - ERROR - [object Object]
+2025-05-22T15:25:21.198Z - ERROR - Upload error: userId=undefined, originalName=Screenshot_29.png, serverName=1747927520988-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:26:04.866Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T15:26:04.867Z - ERROR - Authentication error: userId is not defined
+2025-05-22T15:26:16.038Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T15:26:16.039Z - ERROR - Authentication error: userId is not defined
+2025-05-22T15:26:20.253Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T15:26:20.253Z - ERROR - Authentication error: userId is not defined
+2025-05-22T15:26:31.743Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T15:26:31.744Z - ERROR - Authentication error: userId is not defined
+2025-05-22T15:26:51.317Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T15:26:51.319Z - ERROR - Authentication error: userId is not defined
+2025-05-22T15:28:09.284Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T15:28:31.706Z - ERROR - Upload error: userId=1, originalName=Screenshot_29.png, serverName=1747927711495-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:30:58.530Z - ERROR - Upload error: userId=1, originalName=Screenshot_29.png, serverName=1747927858323-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:31:31.649Z - ERROR - Upload error: userId=1, originalName=Screenshot_29.png, serverName=1747927891448-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:32:50.520Z - ERROR - Upload error: userId=1, originalName=Screenshot_29.png, serverName=1747927970519-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:35:28.136Z - ERROR - Upload error: userId=1, originalName=Screenshot_29.png, serverName=1747928127913-Screenshot_29.png, size=6376, mimeType=image/png
+2025-05-22T15:36:01.584Z - ERROR - Upload error: userId=1, originalName=Search.svg, serverName=1747928161583-Search.svg, size=1459, mimeType=image/svg+xml
+2025-05-22T15:37:30.814Z - ERROR - Upload error: userId=1, originalName=box.gif, serverName=1747928250812-box.gif, size=55924, mimeType=image/gif
+2025-05-22T16:08:47.541Z - ERROR - Upload error: userId=1, originalName=2024-02-02 02-32-58.mp4, serverName=1747930124081-2024-02-02 02-32-58.mp4, size=237497911, mimeType=video/mp4
+2025-05-22T16:22:17.871Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T17:45:01.572Z - ERROR - Upload error: userId=1, originalName=2024-02-16 03-48-09.mp4, serverName=1747935897339-2024-02-16 03-48-09.mp4, size=295766002, mimeType=video/mp4
+2025-05-22T21:02:08.861Z - INFO - Данные пользователя с логином Korol_gy40 обновлены.
+2025-05-22T21:02:24.349Z - ERROR - Upload error: userId=1, originalName=2024-02-16 03-48-09.mp4, serverName=1747947743213-2024-02-16 03-48-09.mp4, size=295766002, mimeType=video/mp4
+2025-05-22T21:02:33.549Z - ERROR - Upload error: userId=1, originalName=IT_TOP_Ryazan_CLOUD_Report.docx, serverName=1747947753548-IT_TOP_Ryazan_CLOUD_Report.docx, size=37968, mimeType=application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-05-22T21:02:40.039Z - ERROR - Upload error: userId=1, originalName=13.png, serverName=1747947760038-13.png, size=365313, mimeType=image/png
+2025-05-22T22:20:02.379Z - ERROR - Database error: read ECONNRESET
+2025-05-22T22:20:14.321Z - ERROR - Upload error: userId=null, originalName=Screenshot_30.png, serverName=1747952414320-Screenshot_30.png, size=222716, mimeType=image/png
+2025-05-22T22:20:25.111Z - ERROR - Upload error: userId=null, originalName=Screenshot_30.png, serverName=1747952425110-Screenshot_30.png, size=222716, mimeType=image/png
+2025-05-22T22:21:17.854Z - INFO - Новый пользователь с логином Abdul_nt10 добавлен в базу.
+2025-05-22T22:21:42.741Z - ERROR - Upload error: userId=2, originalName=Screenshot_30.png, serverName=1747952502740-Screenshot_30.png, size=222716, mimeType=image/png
+2025-05-22T22:21:48.994Z - ERROR - Upload error: userId=2, originalName=IT_TOP_Ryazan_CLOUD_Report.docx, serverName=1747952508993-IT_TOP_Ryazan_CLOUD_Report.docx, size=37968, mimeType=application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-05-22T22:21:54.929Z - ERROR - Upload error: userId=2, originalName=ÐÐ½Ð´Ð¸Ð²Ð¸Ð´ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð¿ÑÐ¾ÐµÐºÑ IT TOP - CLOUD.docx, serverName=1747952514927-ÐÐ½Ð´Ð¸Ð²Ð¸Ð´ÑÐ°Ð»ÑÐ½ÑÐ¹ Ð¿ÑÐ¾ÐµÐºÑ IT TOP - CLOUD.docx, size=313951, mimeType=application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-05-22T22:22:26.504Z - INFO - Данные пользователя с логином Abdul_nt10 обновлены.
+2025-05-22T22:23:27.629Z - ERROR - Upload error: userId=2, originalName=2024-02-02 02-32-58.mp4, serverName=1747952606705-2024-02-02 02-32-58.mp4, size=237497911, mimeType=video/mp4
+2025-05-22T22:23:42.298Z - ERROR - Upload error: userId=2, originalName=IT_TOP_Ryazan_CLOUD_Report.docx, serverName=1747952622297-IT_TOP_Ryazan_CLOUD_Report.docx, size=37968, mimeType=application/vnd.openxmlformats-officedocument.wordprocessingml.document
+2025-05-22T22:24:57.883Z - INFO - Данные пользователя с логином Abdul_nt10 обновлены.

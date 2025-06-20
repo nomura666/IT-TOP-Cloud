@@ -1,0 +1,5 @@
+echo "node_modules/" > .gitignore
+echo "uploads/" >> .gitignore
+echo ".env" >> .gitignore
+echo "*.mp4" >> .gitignore
+echo "*.node" >> .gitignore
